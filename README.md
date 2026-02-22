@@ -1,118 +1,87 @@
+👋 Hi, I'm Asitha L. Konara
+Full-Stack Software Engineer | SaaS & AI Systems | Next.js • FastAPI • Docker
+
+I build production-grade SaaS platforms, AI-powered systems, and scalable backend architectures.
+Focused on structured engineering — from planning → architecture → implementation → deployment.
+
+Currently open to on-site or hybrid roles in Colombo.
+
+🚀 Engineering Focus
+
+🧩 Full-Stack SaaS Development — Multi-tenant systems, authentication, dashboards
+⚙️ Backend Architecture — REST APIs, RBAC, caching, scalable data modeling
+🧠 AI Integration — LLM fine-tuning, automation systems, intelligent workflows
+🐳 DevOps Fundamentals — Dockerized services, CI/CD, production deployments
+📊 Performance & Reliability — Monitoring, logging, optimization strategies
+
+I care about:
+
+Clean architecture
+Maintainable systems
+Real-world impact
+
+Shipping complete products — not just features
+
+🏗️ Flagship Project
+🛒 SmartStore SaaS
+
+AI-Powered Multi-Tenant E-commerce Platform
+Stack: Next.js 14 · TypeScript · PostgreSQL · Redis · Prisma · Docker · Stripe · Vercel
+Designed scalable multi-tenant SaaS architecture
+Implemented secure authentication & role-based access control
+Integrated Stripe payments with webhook handling
+Optimized API performance using Redis caching
+Dockerized services for environment consistency
+
+🔗 Repo:
+https://github.com/AsithaLKonara/SmartStoreSaaS-Mono
+
+🧠 AI & Automation Systems
+JarvisX V2 — Custom AI Assistant
+
+Python · LoRA · Hugging Face · Ollama
+Fine-tuned LLM models for domain-specific tasks
+Built modular multi-mode assistant architecture
+Designed automation-focused AI workflows
+AutomateLanka — Workflow Automation Platform
+FastAPI · Docker · SQLite FTS5 · Kubernetes
+Indexed thousands of workflows and automation nodes
+Implemented RBAC and analytics dashboards
+Built scalable backend discovery architecture
+
+🛠️ Technical Stack
+Languages
+Python · JavaScript · TypeScript
+
+Frontend
+React · Next.js 14 · Tailwind CSS · Responsive UI
+
+Backend
+FastAPI · Node.js · Express · REST APIs · JWT · OAuth
+
+Databases & Caching
+PostgreSQL · MongoDB · Redis
+
+DevOps & Tooling
+Docker · Docker Compose · Git · CI/CD · Vercel
+
+Testing & Monitoring
+Jest · Playwright · Sentry
+
+📈 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AsithaLKonara&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaLKonara&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+🌐 Portfolio & Contact
+
+🌍 Portfolio:
+https://asitha-l-konara-portfolio.vercel.app/
+
+💼 LinkedIn:
+https://www.linkedin.com/in/asitha-l-konara-23a634241/
+
+📫 Email:
+asithalakmalkonara11992081@gmail.com
 
 
-# 👋 Hey, I'm **Asitha L Konara**
+I’m focused on growing as a product-oriented engineer — contributing to scalable systems, collaborating with strong teams, and continuously improving system design, backend architecture, and DevOps depth.
 
-> ⚡ Turning **fantasy into intelligent digital reality** — one line of code at a time.
-
----
-
-## 🚀 About Me
-
-I’m a passionate **Full-Stack Software Engineer** specialized in building scalable web apps, AI-powered systems, and automation tools that blend **creativity, performance, and intelligence**.  
-From sleek UIs to deep backend logic and intelligent automation — I bridge design, engineering, and innovation into one.
-
-💡 *“Code isn’t just logic — it’s the art of creating experiences.”*
-
----
-
-## 🧠 What I Do
-
-- 🧩 **Full-Stack Web Development** — React, Next.js, Node.js, MongoDB  
-- ⚙️ **AI & ML Integration** — Automation, Chatbots, Agent systems  
-- 🖥️ **Desktop & Mobile Applications** — Cross-platform UI with modern UX  
-- 🌐 **SaaS Platforms** — Cloud-driven, multi-tenant web systems  
-- 🧰 **System Design & Architecture** — Modular, scalable, and performance-oriented  
-- 💬 **Automation & API Integration** — Bridging tools for seamless workflow
-
----
-
-## 🧑‍💻 Featured Projects
-
-| Project | Description | Stack |
-|----------|--------------|--------|
-| [**JarvisX**](https://github.com/AsithaLKonara/JarvisX) | Superhuman AI system for intelligent voice & UI automation. | Python, React, Node.js, AI/LLMs |
-| [**ZYRA E-Com Web App**](https://github.com/AsithaLKonara/ZYRA-E-com-web-app) | Modern e-commerce platform built with full-stack architecture. | Next.js, Node.js, MongoDB |
-| [**Wedding LK**](https://github.com/AsithaLKonara/wedding-lk) | Wedding service booking platform for Sri Lanka. | React, Node.js, Express |
-| [**SmartHotel**](https://github.com/AsithaLKonara/SmartHotel) | Smart hotel management system with AI features. | React, Firebase, Node.js |
-| [**SmartStore SaaS Mono**](https://github.com/AsithaLKonara/SmartStoreSaaS-Mono) | Multi-tenant SaaS platform for modern online stores. | Next.js, Prisma, PostgreSQL |
-| [**Automate Lanka**](https://github.com/AsithaLKonara/AutomateLanka) | Automation hub for AI-driven workflows and integrations. | Python, Node.js, APIs |
-
----
-
-## 🛠️ Tech Toolbox
-
-**Frontend:**  
-`React` · `Next.js` · `Tailwind CSS` · `Redux` · `TypeScript`
-
-**Backend:**  
-`Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `REST` · `GraphQL`
-
-**AI / ML:**  
-`Python` · `TensorFlow` · `LangChain` · `Transformers` · `OpenAI API`
-
-**DevOps & Tools:**  
-`Git` · `Docker` · `Vercel` · `Firebase` · `VS Code` · `Postman`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AsithaLKonara&show_icons=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AsithaLKonara&show_icons=true&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AsithaLKonara&show_icons=true&theme=default" height="180em" />
-  </picture>
-
-  
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaLKonara&layout=compact&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaLKonara&layout=compact&theme=default" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaLKonara&layout=compact&theme=default" height="150em" />
-  </picture>
-  
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AsithaLKonara&bg_color=0d1117&color=FF6E96&line=FF6E96&point=FFFFFF&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AsithaLKonara&bg_color=ffffff&color=7928CA&line=7928CA&point=000000&area=true&hide_border=true" />
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AsithaLKonara" />
-  </picture>
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="[LinkedIn-URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[Portfolio-URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="[Twitter-URL]"><img src="https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="[Instagram-URL]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-## ✨ Quote That Drives Me
-
-> “The future belongs to those who design it — one line of code at a time.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsithaLKonara&label=Profile+Views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  🧩 Crafted with passion by <b>Asitha L Konara</b>
-</p>
-
----
+<p align="center"> Built with clarity and engineering discipline. </p>
