@@ -1,13 +1,4 @@
-<!-- 🌊 Animated Header -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Asitha%20L%20Konara&fontAlign=50&fontAlignY=40&color=0:0D1117,100:7928CA&desc=Turning%20Fantasy%20Into%20Intelligent%20Digital%20Reality&descAlign=50&descAlignY=65&fontColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Asitha%20L%20Konara&fontAlign=50&fontAlignY=40&color=0:ffffff,100:7928CA&desc=Turning%20Fantasy%20Into%20Intelligent%20Digital%20Reality&descAlign=50&descAlignY=65&fontColor=000000" />
-    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Asitha%20L%20Konara&fontAlign=50&fontAlignY=40&color=gradient" />
-  </picture>
-</p>
 
----
 
 # 👋 Hey, I'm **Asitha L Konara**
 
