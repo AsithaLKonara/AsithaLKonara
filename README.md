@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Asitha%20L.%20Konara&fontSize=42&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20SaaS%20%26%20AI%20Systems&descAlignY=55&animation=fadeIn" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Asitha%20L.%20Konara&fontSize=42&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20SaaS%20%26%20AI%20Systems&descAlignY=55&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Asitha%20L%20Konara)" />
 </p>
 
 <p align="center">
