@@ -20,9 +20,9 @@ With a deep expertise in the modern JavaScript ecosystem (Next.js, TypeScript, N
 
 ---
 
-## 🏗️ Top 10 Featured Projects
+## 🏗️ 12 Featured Engineering Projects
 
-I have designed and engineered a wide variety of enterprise-grade systems, SaaS platforms, and AI integrations. Here are my 10 most impactful public projects:
+I have designed and engineered a wide variety of enterprise-grade systems, SaaS platforms, and AI integrations. Here is a curated list of my 12 most impactful public projects:
 
 ### 1. [WeddingLK - Wedding Aggregator Platform](https://github.com/AsithaLKonara/WeddingLK)
 *Next.js 15, TypeScript, MongoDB, Redis, NextAuth, Docker*
@@ -36,33 +36,41 @@ I have designed and engineered a wide variety of enterprise-grade systems, SaaS 
 *Next.js, Redis, PostgreSQL, Stripe, Docker*
 - Architected a multi-tenant B2B/B2C SaaS platform with custom domains and subscription billing. Designed schema-based isolation, integrated Stripe webhooks, and achieved <100ms API response times via Redis read-through caching.
 
-### 4. [All-in-One AI WorkSpace](https://github.com/AsithaLKonara/All-in-One-AI-WorkSpace)
-*React, Node.js, PostgreSQL, Redis, OpenAI/Groq SDKs*
-- An enterprise multi-model AI productivity hub unifying coding, chat, and productivity tools into a single fast dashboard. Built streaming AI responses with Redis-backed session management and multi-provider LLM routing.
+### 4. [Smart-LMS-SaaS - AI-Powered Learning Platform](https://github.com/AsithaLKonara/Smart-LMS-SaaS)
+*Next.js, OpenAI, Groq, PostgreSQL*
+- Built a scalable Learning Management System with role-based dashboards for students and instructors. Integrated OpenAI and Groq APIs for intelligent course content generation and automated assessments.
 
-### 5. [UltraDrive - Enterprise Fleet Management](https://github.com/AsithaLKonara/UltraDrive)
-*Enterprise Management System*
-- Developed a comprehensive fleet management system to track vehicles, optimize routes, and manage driver logistics at scale.
+### 5. [Universal AI Chatbot (OmniChat)](https://github.com/AsithaLKonara/Universal-Ai-Chatbot)
+*React, Node.js, PostgreSQL, Redis, LLMs*
+- Engineered a context-aware AI chatbot platform capable of adapting dynamically to different business workflows. Built streaming AI responses with Redis-backed session management and multi-provider LLM routing.
 
 ### 6. [AutomateLanka](https://github.com/AsithaLKonara/AutomateLanka)
 *FastAPI, SQLite, Docker, Kubernetes*
 - A high-throughput industrial workflow and nodes automation hub. Indexed thousands of complex workflow templates and implemented RBAC and detailed audit logs.
 
-### 7. [Universal AI Chatbot (OmniChat)](https://github.com/AsithaLKonara/Universal-Ai-Chatbot)
-*React, Node.js, PostgreSQL, Redis, LLMs*
-- Engineered a context-aware AI chatbot platform capable of adapting dynamically to different business workflows with streaming responses.
+### 7. [NeoShopUltra](https://github.com/AsithaLKonara/NeoShopUltra)
+*Modern E-Commerce Storefront*
+- An advanced, highly responsive e-commerce storefront designed for fast conversions, smooth animations, and optimized product discovery.
 
-### 8. [SoftQuote](https://github.com/AsithaLKonara/SoftQuote)
-*Smart Software Quotation Platform*
-- A platform designed to automate and streamline the generation of complex software development quotations and proposals.
+### 8. [TaskNest](https://github.com/AsithaLKonara/TaskNest)
+*Productivity & Task Management*
+- A streamlined task management application focusing on organizational efficiency, collaborative workflows, and intuitive user experiences.
 
-### 9. [JarvisX](https://github.com/AsithaLKonara/JarvisX)
-*Python, Local AI, Chrome Extension*
-- A modular AI assistant and contextual Chrome utility. Fine-tuned specialized models for high-speed local inference directly from the browser.
+### 9. [AI-Powered Classified Ad Web](https://github.com/AsithaLKonara/Ai--powered-classified-ad-web)
+*Next.js, AI Integrations*
+- A modernized classified ad platform that leverages artificial intelligence to automatically categorize listings and improve search relevance for users.
 
-### 10. [ZenERP](https://github.com/AsithaLKonara/ZenERP)
-*Enterprise Resource Planning*
-- Architected a modular ERP system to centralize business operations, financial reporting, and employee management into a single robust dashboard.
+### 10. [A-ZONE CNC WEB](https://github.com/AsithaLKonara/A-ZONE-CNC-WEB)
+*Corporate Service Platform*
+- A professional web presence for CNC machining services, focusing on high-quality visuals, service catalogs, and lead generation.
+
+### 11. [Gmap-Data-Scarper](https://github.com/AsithaLKonara/Gmap-Data-Scarper)
+*Python, Web Scraping*
+- A robust utility tool built to programmatically scrape, format, and export structured data from Google Maps for business intelligence and lead generation.
+
+### 12. [Single-chatbot](https://github.com/AsithaLKonara/Single-chatbot)
+*React, LLM APIs*
+- A streamlined, lightweight chatbot interface designed for rapid deployment and quick integration into existing websites.
 
 ---
 
