@@ -8,35 +8,61 @@
 
 ## 👋 About Me
 
-I am an **Associate Full-Stack Software Engineer** specialized in building production-grade web applications, robust APIs, and intelligent workflows. With a strong foundation in the modern JavaScript ecosystem (Next.js, TypeScript, Node.js) and relational databases, I focus on delivering clean, maintainable, and scalable systems that solve real business problems.
+I am an **Associate Full-Stack Software Engineer** specialized in building production-grade web applications, robust APIs, and intelligent AI-driven workflows. While holding an Associate title, I operate with **senior-level autonomy and impact**—taking full ownership of complex system architectures, multi-tenant database designs, and high-throughput enterprise platforms. 
+
+With a deep expertise in the modern JavaScript ecosystem (Next.js, TypeScript, Node.js) and relational databases, I focus on delivering clean, maintainable, and scalable systems that solve real business problems.
 
 ### 🌟 Core Engineering Principles
-* **Clean Architecture** — Adherence to SOLID, OOP, and DRY principles.
-* **Product-Oriented** — Dedicated to shipping resilient, production-ready applications.
-* **Performance First** — Optimizing database queries, implementing caching (Redis), and writing efficient code.
-* **Continuous Learning** — Constantly adapting to new technologies and modern best practices.
+* **Clean Architecture** — Strict adherence to SOLID, OOP, and DRY design principles.
+* **Product-Oriented** — Dedicated to shipping resilient, production-ready applications, not just features.
+* **Performance First** — Optimizing database queries, implementing caching (Redis), and minimizing latency.
+* **Security & DevOps** — Containerized architectures, secure RBAC, and automated CI/CD deployments.
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Top 10 Featured Projects
 
-### WeddingLK - Wedding Aggregator Platform
+I have designed and engineered a wide variety of enterprise-grade systems, SaaS platforms, and AI integrations. Here are my 10 most impactful public projects:
+
+### 1. [WeddingLK - Wedding Aggregator Platform](https://github.com/AsithaLKonara/WeddingLK)
 *Next.js 15, TypeScript, MongoDB, Redis, NextAuth, Docker*
-- **Role & Impact:** Developed the largest wedding aggregator platform in Sri Lanka.
-- **Key Features:** Built a highly scalable backend with over 125 API routes, robust authentication, and Redis caching. Containerized using Docker for reliable deployments.
-- 🔗 [Explore Repository](https://github.com/AsithaLKonara/WeddingLK)
+- Developed the largest wedding aggregator platform in Sri Lanka. Scalable backend with over 125 API routes, robust authentication, and Redis caching. Containerized using Docker for reliable deployments.
 
-### Smart-Hotel-OS - Hotel Management System
+### 2. [Smart-Hotel-OS - Hotel Management System](https://github.com/AsithaLKonara/Smart-Hotel-2)
 *Next.js 14, TypeScript, PostgreSQL, Prisma, Redis, Tailwind CSS*
-- **Role & Impact:** Engineered an enterprise-grade hotel management system handling room bookings, POS, and guest services.
-- **Key Features:** Implemented secure user authentication with RBAC middleware, distributed locks for real-time inventory, and Pusher events for live dashboard synchronization.
-- 🔗 [Explore Repository](https://github.com/AsithaLKonara/Smart-Hotel-2)
+- Engineered an enterprise-grade hotel management system handling room bookings, POS, and guest services. Implemented secure user authentication with RBAC middleware, distributed locks for real-time inventory, and Pusher events for live dashboard synchronization.
 
-### SmartStore SaaS - Multi-Tenant Commerce Platform
+### 3. [SmartStore SaaS - Multi-Tenant Commerce Platform](https://github.com/AsithaLKonara/SmartStoreSaaS-Mono)
 *Next.js, Redis, PostgreSQL, Stripe, Docker*
-- **Role & Impact:** Architected a multi-tenant B2B/B2C SaaS platform with custom domains and subscription billing.
-- **Key Features:** Designed schema-based isolation, integrated Stripe webhooks, and achieved <100ms API response times via Redis read-through caching.
-- 🔗 [Explore Repository](https://github.com/AsithaLKonara/SmartStoreSaaS-Mono)
+- Architected a multi-tenant B2B/B2C SaaS platform with custom domains and subscription billing. Designed schema-based isolation, integrated Stripe webhooks, and achieved <100ms API response times via Redis read-through caching.
+
+### 4. [All-in-One AI WorkSpace](https://github.com/AsithaLKonara/All-in-One-AI-WorkSpace)
+*React, Node.js, PostgreSQL, Redis, OpenAI/Groq SDKs*
+- An enterprise multi-model AI productivity hub unifying coding, chat, and productivity tools into a single fast dashboard. Built streaming AI responses with Redis-backed session management and multi-provider LLM routing.
+
+### 5. [UltraDrive - Enterprise Fleet Management](https://github.com/AsithaLKonara/UltraDrive)
+*Enterprise Management System*
+- Developed a comprehensive fleet management system to track vehicles, optimize routes, and manage driver logistics at scale.
+
+### 6. [AutomateLanka](https://github.com/AsithaLKonara/AutomateLanka)
+*FastAPI, SQLite, Docker, Kubernetes*
+- A high-throughput industrial workflow and nodes automation hub. Indexed thousands of complex workflow templates and implemented RBAC and detailed audit logs.
+
+### 7. [Universal AI Chatbot (OmniChat)](https://github.com/AsithaLKonara/Universal-Ai-Chatbot)
+*React, Node.js, PostgreSQL, Redis, LLMs*
+- Engineered a context-aware AI chatbot platform capable of adapting dynamically to different business workflows with streaming responses.
+
+### 8. [SoftQuote](https://github.com/AsithaLKonara/SoftQuote)
+*Smart Software Quotation Platform*
+- A platform designed to automate and streamline the generation of complex software development quotations and proposals.
+
+### 9. [JarvisX](https://github.com/AsithaLKonara/JarvisX)
+*Python, Local AI, Chrome Extension*
+- A modular AI assistant and contextual Chrome utility. Fine-tuned specialized models for high-speed local inference directly from the browser.
+
+### 10. [ZenERP](https://github.com/AsithaLKonara/ZenERP)
+*Enterprise Resource Planning*
+- Architected a modular ERP system to centralize business operations, financial reporting, and employee management into a single robust dashboard.
 
 ---
 
@@ -48,18 +74,3 @@ I am an **Associate Full-Stack Software Engineer** specialized in building produ
 * **Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM
 * **DevOps & Cloud:** Docker, Vercel, Firebase, Git, GitHub Actions
 * **Testing:** Jest, Playwright
-
----
-
-## 📊 GitHub Statistics
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AsithaLKonara&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="150" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaLKonara&layout=compact&theme=default&hide_border=true" height="150" />
-    </td>
-  </tr>
-</table>
