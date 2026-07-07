@@ -1,84 +1,134 @@
-# Asitha Lakmal Konara
-**Associate Full-Stack Software Engineer | SaaS & Enterprise Systems Builder**
+# Hi, I'm Asitha Lakmal 👋
 
-📍 Colombo, Sri Lanka (Open to Remote Worldwide)  
-🔗 [LinkedIn](https://www.linkedin.com/in/asitha-l-konara-23a634241/) | 🌐 [Portfolio](https://asitha-l-konara-portfolio.vercel.app/) | ✉️ [Email](mailto:asithalkonara@gmail.com)
+I'm an **Associate Full-Stack Software Engineer** passionate about building scalable SaaS platforms, enterprise multi-tenant databases, and intelligent AI-driven workflows.
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am an **Associate Full-Stack Software Engineer** specialized in building production-grade web applications, robust APIs, and intelligent AI-driven workflows. While holding an Associate title, I operate with **senior-level autonomy and impact**—taking full ownership of complex system architectures, multi-tenant database designs, and high-throughput enterprise platforms. 
-
-With a deep expertise in the modern JavaScript ecosystem (Next.js, TypeScript, Node.js) and relational databases, I focus on delivering clean, maintainable, and scalable systems that solve real business problems.
-
-### 🌟 Core Engineering Principles
-* **Clean Architecture** — Strict adherence to SOLID, OOP, and DRY design principles.
-* **Product-Oriented** — Dedicated to shipping resilient, production-ready applications, not just features.
-* **Performance First** — Optimizing database queries, implementing caching (Redis), and minimizing latency.
-* **Security & DevOps** — Containerized architectures, secure RBAC, and automated CI/CD deployments.
+- 💼 **Associate Full-Stack Software Engineer** operating with senior-level autonomy and impact.
+- 🎯 **Goal:** Build reliable, production-grade software that solves complex real-world business problems.
+- 🏗️ **Focus:** Architecting clean, maintainable systems with strict adherence to SOLID and DRY principles.
+- ⚡ **Expertise:** Deep caching strategies (Redis), query tuning, containerized architectures, and secure RBAC.
 
 ---
 
-## 🏗️ 12 Featured Engineering Projects
+## 🛠 Tech Stack
 
-I have designed and engineered a wide variety of enterprise-grade systems, SaaS platforms, and AI integrations. Here is a curated list of my 12 most impactful public projects:
+### Languages
+TypeScript • JavaScript • Python • C++ • SQL • HTML/CSS
 
-### 1. [WeddingLK - Wedding Aggregator Platform](https://github.com/AsithaLKonara/WeddingLK)
-*Next.js 15, TypeScript, MongoDB, Redis, NextAuth, Docker*
-- Developed the largest wedding aggregator platform in Sri Lanka. Scalable backend with over 125 API routes, robust authentication, and Redis caching. Containerized using Docker for reliable deployments.
+### Frontend
+React • Next.js (App Router) • Tailwind CSS • Redux
 
-### 2. [Smart-Hotel-OS - Hotel Management System](https://github.com/AsithaLKonara/Smart-Hotel-2)
-*Next.js 14, TypeScript, PostgreSQL, Prisma, Redis, Tailwind CSS*
-- Engineered an enterprise-grade hotel management system handling room bookings, POS, and guest services. Implemented secure user authentication with RBAC middleware, distributed locks for real-time inventory, and Pusher events for live dashboard synchronization.
+### Backend
+Node.js • Express • FastAPI • REST & GraphQL APIs • WebSockets
 
-### 3. [SmartStore SaaS - Multi-Tenant Commerce Platform](https://github.com/AsithaLKonara/SmartStoreSaaS-Mono)
-*Next.js, Redis, PostgreSQL, Stripe, Docker*
-- Architected a multi-tenant B2B/B2C SaaS platform with custom domains and subscription billing. Designed schema-based isolation, integrated Stripe webhooks, and achieved <100ms API response times via Redis read-through caching.
+### Databases
+PostgreSQL • MongoDB • Redis • Prisma ORM
 
-### 4. [Smart-LMS-SaaS - AI-Powered Learning Platform](https://github.com/AsithaLKonara/Smart-LMS-SaaS)
-*Next.js, OpenAI, Groq, PostgreSQL*
-- Built a scalable Learning Management System with role-based dashboards for students and instructors. Integrated OpenAI and Groq APIs for intelligent course content generation and automated assessments.
-
-### 5. [Universal AI Chatbot (OmniChat)](https://github.com/AsithaLKonara/Universal-Ai-Chatbot)
-*React, Node.js, PostgreSQL, Redis, LLMs*
-- Engineered a context-aware AI chatbot platform capable of adapting dynamically to different business workflows. Built streaming AI responses with Redis-backed session management and multi-provider LLM routing.
-
-### 6. [AutomateLanka](https://github.com/AsithaLKonara/AutomateLanka)
-*FastAPI, SQLite, Docker, Kubernetes*
-- A high-throughput industrial workflow and nodes automation hub. Indexed thousands of complex workflow templates and implemented RBAC and detailed audit logs.
-
-### 7. [NeoShopUltra](https://github.com/AsithaLKonara/NeoShopUltra)
-*Modern E-Commerce Storefront*
-- An advanced, highly responsive e-commerce storefront designed for fast conversions, smooth animations, and optimized product discovery.
-
-### 8. [TaskNest](https://github.com/AsithaLKonara/TaskNest)
-*Productivity & Task Management*
-- A streamlined task management application focusing on organizational efficiency, collaborative workflows, and intuitive user experiences.
-
-### 9. [AI-Powered Classified Ad Web](https://github.com/AsithaLKonara/Ai--powered-classified-ad-web)
-*Next.js, AI Integrations*
-- A modernized classified ad platform that leverages artificial intelligence to automatically categorize listings and improve search relevance for users.
-
-### 10. [A-ZONE CNC WEB](https://github.com/AsithaLKonara/A-ZONE-CNC-WEB)
-*Corporate Service Platform*
-- A professional web presence for CNC machining services, focusing on high-quality visuals, service catalogs, and lead generation.
-
-### 11. [Gmap-Data-Scarper](https://github.com/AsithaLKonara/Gmap-Data-Scarper)
-*Python, Web Scraping*
-- A robust utility tool built to programmatically scrape, format, and export structured data from Google Maps for business intelligence and lead generation.
-
-### 12. [Single-chatbot](https://github.com/AsithaLKonara/Single-chatbot)
-*React, LLM APIs*
-- A streamlined, lightweight chatbot interface designed for rapid deployment and quick integration into existing websites.
+### Tools & DevOps
+Docker • Vercel • Firebase • Git • GitHub Actions • Jest • Playwright
 
 ---
 
-## 🛠️ Technology Stack
+## 🚀 Featured Projects
 
-* **Languages:** TypeScript, JavaScript, Python, C++, SQL, HTML/CSS
-* **Frontend:** React, Next.js (App Router), Tailwind CSS, Redux
-* **Backend:** Node.js, Express, FastAPI, REST & GraphQL APIs, WebSockets
-* **Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM
-* **DevOps & Cloud:** Docker, Vercel, Firebase, Git, GitHub Actions
-* **Testing:** Jest, Playwright
+### [WeddingLK - Wedding Aggregator Platform](https://github.com/AsithaLKonara/WeddingLK)
+Next.js 15 | TypeScript | MongoDB | Redis | Docker
+
+- Developed the largest wedding aggregator platform in Sri Lanka.
+- Scalable backend with over 125 API routes.
+- Robust authentication and Redis caching.
+- Containerized deployment using Docker.
+
+### [Smart-Hotel-OS - Hotel Management System](https://github.com/AsithaLKonara/Smart-Hotel-2)
+Next.js 14 | TypeScript | PostgreSQL | Prisma | Redis
+
+- Enterprise-grade system handling room bookings, POS, and guest services.
+- Secure user authentication with RBAC middleware.
+- Distributed locks for real-time inventory.
+- Pusher events for live dashboard synchronization.
+
+### [SmartStore SaaS - Multi-Tenant Commerce Platform](https://github.com/AsithaLKonara/SmartStoreSaaS-Mono)
+Next.js | Redis | PostgreSQL | Stripe | Docker
+
+- Multi-tenant B2B/B2C SaaS platform with custom domains.
+- Schema-based isolation and Stripe webhook integration.
+- Achieved <100ms API response times via Redis read-through caching.
+
+### [Smart-LMS-SaaS - AI-Powered Learning Platform](https://github.com/AsithaLKonara/Smart-LMS-SaaS)
+Next.js | OpenAI | Groq | PostgreSQL
+
+- Scalable Learning Management System with role-based dashboards.
+- Integrated OpenAI and Groq APIs for intelligent course content generation.
+
+### [Universal AI Chatbot (OmniChat)](https://github.com/AsithaLKonara/Universal-Ai-Chatbot)
+React | Node.js | PostgreSQL | Redis | LLMs
+
+- Context-aware AI chatbot adapting dynamically to business workflows.
+- Streaming AI responses with Redis-backed session management.
+
+### [AutomateLanka](https://github.com/AsithaLKonara/AutomateLanka)
+FastAPI | SQLite | Docker | Kubernetes
+
+- High-throughput industrial workflow and nodes automation hub.
+- Indexed thousands of complex workflow templates.
+- Implemented RBAC and detailed audit logs.
+
+### [NeoShopUltra](https://github.com/AsithaLKonara/NeoShopUltra)
+Next.js | React | Tailwind CSS
+
+- Advanced, highly responsive e-commerce storefront.
+- Designed for fast conversions and optimized product discovery.
+
+### [TaskNest](https://github.com/AsithaLKonara/TaskNest)
+React | Node.js | PostgreSQL
+
+- Streamlined task management application.
+- Focuses on organizational efficiency and collaborative workflows.
+
+### [AI-Powered Classified Ad Web](https://github.com/AsithaLKonara/Ai--powered-classified-ad-web)
+Next.js | AI Integrations
+
+- Modernized classified ad platform leveraging artificial intelligence.
+- Automatic categorization and improved search relevance.
+
+### [A-ZONE CNC WEB](https://github.com/AsithaLKonara/A-ZONE-CNC-WEB)
+Corporate Service Platform
+
+- Professional web presence for CNC machining services.
+- High-quality visuals, service catalogs, and lead generation.
+
+### [Gmap-Data-Scarper](https://github.com/AsithaLKonara/Gmap-Data-Scarper)
+Python | Web Scraping
+
+- Robust utility to scrape, format, and export structured data from Google Maps.
+- Used for business intelligence and lead generation.
+
+### [Single-chatbot](https://github.com/AsithaLKonara/Single-chatbot)
+React | LLM APIs
+
+- Streamlined, lightweight chatbot interface.
+- Designed for rapid deployment and quick integration into websites.
+
+---
+
+## 🌱 Currently Working On
+
+- Expanding expertise in Cloud Computing and Kubernetes orchestration.
+- Deepening knowledge of advanced LLM prompt engineering and agentic architectures.
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/asitha-l-konara-23a634241/)
+- [Email](mailto:asithalkonara@gmail.com)
+- [Portfolio](https://asitha-l-konara-portfolio.vercel.app/)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy taking complex, tangled enterprise problems and abstracting them away into beautifully simple, highly scalable code architectures!
